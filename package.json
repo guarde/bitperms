@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guarde/bitperms/issues"
   },
-  "homepage": "https://github.com/guarde/bitperms#readme"
+  "homepage": "https://github.com/guarde/bitperms#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
 }
