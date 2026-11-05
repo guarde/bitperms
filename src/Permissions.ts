@@ -1,3 +1,14 @@
+/*
+
+@todo(guarde): add serialize and parse functionality for cookies/session in hex
+@todo(guarde): add de-duplicative measures for roles/bits
+@todo(guarde): add object-based storage for persistance by position
+@todo(guarde): add role extenders for permission kits
+    - let a user type `@User`, to give a role all permissions User role has
+@todo(guarde): check manipulative functions
+
+*/
+
 /**
  * @todo(guarde): document ts
  */
