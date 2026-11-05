@@ -1,0 +1,19 @@
+{
+  "name": "bitperms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guarde/bitperms.git"
+  },
+  "author": "Kelcei 'guarde'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guarde/bitperms/issues"
+  },
+  "homepage": "https://github.com/guarde/bitperms#readme"
+}
